@@ -12263,15 +12263,15 @@ pre .code {
 
 .progress {
   height: 30px;
-    background-color: #8d8f91;
-    border-radius: 20px;
+  background-color: #f8f9fa;
+  border-radius: 20px;
+  border: 1px solid #695aa6;
 }
 .progress-bar {
-  background-color: #f8f9fa;
+  background-color: #695aa6;
   text-align: left;
   padding-left: 10px;
   line-height: 30px;
   font-size: 14px;
   border-radius: 20px;
-  border: 1px solid #8d8f91;
 }
